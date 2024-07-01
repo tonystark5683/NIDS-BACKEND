@@ -6,8 +6,7 @@
   * [BUSINESS PROBLEM](#business-problem)
   * [DATA AVAILABILITY](#data-availability)
   * [ATTACK CLASS](#attack-class)
-  * [How to Use](#how-to-use)
-  * [LICENSE](#license)
+ 
 
 ### Directory Tree
 
